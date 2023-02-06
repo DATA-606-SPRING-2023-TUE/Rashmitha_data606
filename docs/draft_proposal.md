@@ -1,1 +1,2 @@
-
+# Water Quality Predection
+### Safe drinking water access is a fundamental human right, a necessity for good health, and a part of sensible health protection policies. At the national, regional, and municipal levels, this is crucial as a matter of health and development. Investments in water supply and sanitation have been shown to provide a net economic advantage in some areas because they reduce the negative impacts on health and the expenses associated with providing medical treatment.
