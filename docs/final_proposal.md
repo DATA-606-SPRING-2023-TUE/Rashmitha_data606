@@ -1,7 +1,7 @@
 # Water Quality Predection
 Water quality parameters include chemical, physical, and biological properties and can be tested or monitored based on the desired water parameters of concern. Parameters that are frequently sampled or monitored for water quality include temperature, dissolved oxygen, pH, conductivity, ORP, and turbidity. However water monitoring may also include measuring total algae, ISEs (ammonia, nitrate, chloride), or laboratory parameters such as BOD, titration, or TOC
 
-# ![image](https://user-images.githubusercontent.com/124104312/221208395-31d5ddc2-23f9-45f5-865d-4569380426bd.png)
+<img src="https://user-images.githubusercontent.com/124104312/221208395-31d5ddc2-23f9-45f5-865d-4569380426bd.png"  width="600" height="300">
 
 ## Explainning the project
 putting machine learning methods to use to build a prediction of water quality. Using some factors, such as the Ph level, conductivity, hardness, etc., this technique forecasts if the water is fine to consume or not.
@@ -69,7 +69,7 @@ To build a machine learning model for water potability dataset, steps:
 
 **10.	Deploying the model:** Once aim are satisfied with the performance of the machine learning model, can deploy it in a production environment( i am going to use Streamlit)
 
-![image](https://user-images.githubusercontent.com/124104312/221227805-03d608b5-bd3c-41e7-94be-f61723d8069a.png)
+<img src="https://user-images.githubusercontent.com/124104312/221227805-03d608b5-bd3c-41e7-94be-f61723d8069a.png"  width="1000" height="300">
 
 
 
