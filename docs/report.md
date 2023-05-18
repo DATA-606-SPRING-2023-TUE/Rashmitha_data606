@@ -1,6 +1,6 @@
 # Water quality prediction
 #### presentation link: https://github.com/DATA-606-SPRING-2023-TUE/Rashmitha_data606/blob/main/docs/Capstone.ppt%20(2).pptx
-#### youtube video link : 
+#### youtube video link : https://youtu.be/hqIV8-fnS-M 
 ## Table of Contents 
  
 1.	Abstract .............................................................................................................................. 3 
